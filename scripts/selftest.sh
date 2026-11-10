@@ -1,7 +1,7 @@
 #!/bin/bash
-# Proves the pipeline on this computer (~2-4 min): voice + Whisper on a 2-line script, then every style's example:
+# Proves the pipeline on this computer (~2-4 min): voice + Whisper on a 2-line script, then the Mascot Explainer example:
 # voice -> words -> check -> cues -> mix -> contact sheet -> a 4 s clip with sound. Prints SELFTEST PASSED.
-#   bash selftest.sh              all styles
+#   bash selftest.sh              full run
 #   bash selftest.sh --no-voice   skip Kokoro/Whisper (estimated timing), e.g. before setup.sh has finished
 set -u
 SKILL="$(cd "$(dirname "$0")/.." && pwd)"; PY="$SKILL/scripts/py"
