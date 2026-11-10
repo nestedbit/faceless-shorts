@@ -1,0 +1,28 @@
+{
+  "title": "How to Spot a Fake Email",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.45,
+  "outro": 1.0,
+  "gap": 0.28,
+  "music": "pulse",
+  "sources": [
+    "FBI IC3, 2024 Internet Crime Report (phishing/spoofing was the most reported crime type: 193,407 complaints)",
+    "Microsoft Support, 'Protect yourself from phishing' (check the sender's real address, not only the display name; hover over a link to see where it really goes)",
+    "FTC Consumer Advice, 'How to Recognize and Avoid Phishing Scams' (scammers create urgency: act now, your account will be closed)",
+    "FTC Consumer Alerts on verification-code scams (a code is only for you; anyone who asks you for it is a scammer)"
+  ],
+  "lines": [
+    { "text": "In twenty twenty-four, the FBI got almost two hundred thousand phishing complaints,", "caps": "In *2024, | the *FBI got | almost *200,000 | phishing complaints" },
+    { "text": "so here's how to spot a fake email in four quick checks.", "caps": "So here's how | to spot a *fake email | in *4 quick checks" },
+    { "text": "One, look at the real sender address, not just the name,", "caps": "1. Look at the | real *sender address, | not just the *name" },
+    { "text": "because anyone can call themselves your bank.", "caps": "because *anyone | can call themselves | your *bank" },
+    { "text": "Two, hover over the link before you click it,", "caps": "2. *Hover over | the link before | you *click it" },
+    { "text": "and make sure it goes where it says it does.", "caps": "and make sure | it goes where | it *says it does" },
+    { "text": "Three, watch out for pressure, like act now or lose your account.", "caps": "3. Watch out for | *pressure, | like act now | or *lose your account" },
+    { "text": "That panic is exactly what they want.", "caps": "That *panic | is exactly | what they *want" },
+    { "text": "And four, never send a password or a login code by email.", "caps": "And 4. *Never | send a *password | or a login *code | by email" },
+    { "text": "Anyone who asks for one is running a scam.", "caps": "Anyone who | asks for one | is running a *scam" },
+    { "text": "Send this to the friend who clicks every link.", "caps": "*Send this | to the friend | who clicks *every link" }
+  ]
+}

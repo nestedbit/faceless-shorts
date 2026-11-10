@@ -1,0 +1,17 @@
+{
+  "name": "Default",
+  "skin": "#D9A07A",
+  "skinShade": "#C08560",
+  "hair": "sidepart",
+  "hairCol": "#2A1F1A",
+  "beard": "none",
+  "beardCol": null,
+  "glasses": "round",
+  "glassesCol": "#15172A",
+  "outfit": "hoodie",
+  "outfitCol": "#5B3DF5",
+  "outfitShade": "#4528D9",
+  "trim": "#C8F53A",
+  "browCol": null,
+  "blush": true
+}

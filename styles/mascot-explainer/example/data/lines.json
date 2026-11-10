@@ -1,0 +1,73 @@
+{
+ "duration": 38.119,
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "In twenty twenty-four, the FBI got almost two hundred thousand phishing complaints,",
+   "start": 0.45,
+   "end": 5.61
+  },
+  {
+   "i": 1,
+   "text": "so here's how to spot a fake email in four quick checks.",
+   "start": 6.05,
+   "end": 9.297
+  },
+  {
+   "i": 2,
+   "text": "One, look at the real sender address, not just the name,",
+   "start": 9.577,
+   "end": 12.907
+  },
+  {
+   "i": 3,
+   "text": "because anyone can call themselves your bank.",
+   "start": 13.277,
+   "end": 15.831
+  },
+  {
+   "i": 4,
+   "text": "Two, hover over the link before you click it,",
+   "start": 16.111,
+   "end": 18.401
+  },
+  {
+   "i": 5,
+   "text": "and make sure it goes where it says it does.",
+   "start": 18.881,
+   "end": 20.951
+  },
+  {
+   "i": 6,
+   "text": "Three, watch out for pressure, like act now or lose your account.",
+   "start": 21.231,
+   "end": 25.026
+  },
+  {
+   "i": 7,
+   "text": "That panic is exactly what they want.",
+   "start": 25.306,
+   "end": 27.42
+  },
+  {
+   "i": 8,
+   "text": "And four, never send a password or a login code by email.",
+   "start": 27.7,
+   "end": 31.548
+  },
+  {
+   "i": 9,
+   "text": "Anyone who asks for one is running a scam.",
+   "start": 31.828,
+   "end": 34.414
+  },
+  {
+   "i": 10,
+   "text": "Send this to the friend who clicks every link.",
+   "start": 34.694,
+   "end": 36.839
+  }
+ ]
+}
