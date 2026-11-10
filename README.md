@@ -8,7 +8,7 @@ All in code, on your own computer. $0 extra: no API keys, no AI images, no credi
 
 [Install](#install) · [How it works](#how-it-works) · [Guide (PDF)](https://nestedbit.com/skills/mascot-reels) · [NestedBit](https://nestedbit.com)
 
-![Mascot Explainer style sheet](styles/mascot-explainer/style-sheet.png)
+![Frames from a Mascot Explainer reel starring AK, the NestedBit mascot](reel-frames.jpg)
 
 </div>
 
